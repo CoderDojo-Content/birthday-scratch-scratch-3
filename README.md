@@ -2,7 +2,7 @@
 
 ## Normal
 
-![img/game.png]()
+![](img/game.png)
 
 Since we're celebrating a birthday, let’s throw birthday cakes at a robot! You’re going to need to have Scratch 3, or use it online at scratch.mit.edu
 
@@ -17,13 +17,13 @@ You can see a version of this game at [dojo.soy/birthdayscratch](http://dojo.soy
 You can find everything except the CoderDojo logo in the sprite library in Scratch, and the logo is at [dojo.soy/birthdaylogo](http://dojo.soy/birthdaylogo) for you. You will need to add the music extension before you can play notes though. Here’s the code for your sprites:
 
 ### Cake code
-![img/cake_normal.png]()
+![](img/cake_normal.png)
 
 ### Robot code
-![img/robot_normal.png]()
+![](img/robot_normal.png)
 
 ### Wand code
-![img/wand_normal.png]()
+![](img/wand_normal.png)
 
 ## Hard
 
@@ -34,13 +34,13 @@ You’ll need to create a new ‘You Win!’ sprite using the editing tools in S
 Then you need to add and change some bits of your code:
 
 ### You win code
-![img/you_win_hard.png]()
+![](img/you_win_hard.png)
 
 ### Robot code
-![img/robot_hard.png]()
+![](img/robot_hard.png)
 
 ### Wand code
-![img/wand_hard.png]()
+![](img/wand_hard.png)
 
 ## Ultra
 
